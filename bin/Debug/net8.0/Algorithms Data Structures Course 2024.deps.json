@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Algorithms Data Structures Course 2024/1.0.0": {
+        "runtime": {
+          "Algorithms Data Structures Course 2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithms Data Structures Course 2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
